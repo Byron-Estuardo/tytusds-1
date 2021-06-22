@@ -1,3 +1,2 @@
-# tytusds
-
-Open source visualization of data structures and algorithms in JavaScript
+# TytusX
+Open Source Native XML Database with Query Languages XPath and XQuery in JavaScript
